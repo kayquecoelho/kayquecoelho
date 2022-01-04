@@ -1,5 +1,8 @@
 ## Howdy, folks! I'm Kayque :wave:
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tieskay&color=blue" alt="Profile views">
+</p>
 
 - :books: I'm studying at Driven Education
 - 🔭 I’m currently working on becoming a Full Stack Web Developer
@@ -11,9 +14,15 @@
 
 <br/>
 
+### :earth_americas: Connect with me 
+
+<br/>
+<a href="https://www.linkedin.com/in/kayque-coelho-5aa777229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kayque | Linkedin"/></a>
+
+
 ## :wrench: Languages and Tools
 
-<br>
+<br/>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35px" height="35px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35px" height="35px"/>
@@ -27,8 +36,8 @@
 
 <details closed>
 <summary>📈 Github Stats</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tieskay&show_icons=true&locale=en" alt="tieskay" /></p>
-<img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tieskay" /></p>
-
+<br/>
+<p>&nbsp;<img align="center" height="203em" src="https://github-readme-stats.vercel.app/api?username=tieskay&show_icons=true&locale=en" alt="tieskay" />
+<img align="center" height="203em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tieskay" /></p>
 <br/>
 </details>
