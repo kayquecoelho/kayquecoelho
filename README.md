@@ -1,6 +1,5 @@
-### Howdy, folks! I'm Kayque :wave:
----
-<br/>
+## Howdy, folks! I'm Kayque :wave:
+
 
 - :books: I'm studying at Driven Education
 - 🔭 I’m currently working on becoming a Full Stack Web Developer
@@ -12,13 +11,8 @@
 
 <br/>
 
-## Connect with me
+## :wrench: Languages and Tools
 
-<a href="https://www.linkedin.com/in/kayque-coelho-5aa777229/"><img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-
-
-### :wrench: Languages and Tools
----
 <br>
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35px" height="35px"/>
