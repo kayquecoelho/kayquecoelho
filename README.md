@@ -1,12 +1,9 @@
 ## Howdy, folks! I'm Kayque :wave:
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tieskay&color=blue" alt="Profile views">
-</p>
 
 - :books: I'm studying at Driven Education
 - 🔭 I’m currently working on becoming a Full Stack Web Developer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning TypeScript
 - :speech_balloon: Ask me about ...Anything, especially music
 - 😄 Pronouns: He/Him
 - :sparkles: I would love to exchange experiences. Please, contact me!
@@ -30,6 +27,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35px" height="35px"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35px" height="35px"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35px" height="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
 <br/>
