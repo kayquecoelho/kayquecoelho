@@ -1,5 +1,8 @@
 ## Howdy, folks! I'm Kayque :wave:
 
+<img align="right" alt="GIF" src="./assets/music.gif" width="420" height="320" />
+<br>
+
 - :books: I'm studying at Driven Education
 - 🔭 I’m currently working on folklore (a lyrics training SPA)
 - 🌱 I’m currently learning docker and CI/CD
