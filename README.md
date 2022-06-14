@@ -1,30 +1,35 @@
-## Howdy, folks! I'm Kayque :wave:
+## Olá! Eu sou Kayque (ele/dele) :wave:
 
 <img align="right" alt="GIF" src="./assets/music.gif" width="420" height="320" />
 <br>
 
-- :books: I'm studying at Driven Education
-- 🔭 I’m currently working on folklore (a lyrics training SPA)
-- 🌱 I’m currently learning docker and CI/CD
-- :speech_balloon: Ask me about ...Anything, especially music
-- 😄 Pronouns: He/Him
-- :sparkles: I would love to exchange experiences. Please, contact me!
-- ⚡ Fun fact: I'm passionate about Yoga and meditation
+- :books: Eu estudo na Driven Education
+- 🔭 Atualmente estou trabalhando no folklore (uma SPA para completar o lyric de músicas)
+- 🌱 Estou aprendendo Docker e CI/CD
+- :sparkles: Eu adoraria compartilhar experiências! Por favor, entre em contato a qualquer momento :grinning:
+- ⚡ Curiosidade: Eu pratico Yoga e meditação, sou apaixonado por música pop e amo literatura LGBTQI+ :rainbow_flag:
 
 <br/>
 
-### :earth_americas: Connect with me
+### :earth_americas: Entre em contato
 
 <br/>
 
-<a href="https://www.linkedin.com/in/kayque-coelho/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kayque | Linkedin"/>
-</a>
+<div style="display: flex; gap:10px;">
+  <a href="https://www.linkedin.com/in/kayque-coelho/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kayque | Linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/lkaywc/"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kayque | Instagram" >
+  </a>
+</div>
 
-## :wrench: Languages and Tools
+<br/>
 
-<p> Languages: </p>
-  <div> 
+## :wrench: Ferramentas e Linguagens
+
+<p> Linguagens </p>
+  <div style="display: flex; gap:10px;"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45px" height="45px"/>
     </a>
@@ -44,8 +49,8 @@
 
 <br/>
 
-<p> Frameworks and Libraries: </p>
-  <div>
+<p> Frameworks e bibliotecas </p>
+  <div style="display: flex; gap:10px;">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45px" height="45px"/>
     </a>
@@ -62,8 +67,8 @@
 
 <br/>
 
-<p> Databases and ORMS: </p>
-  <div>
+<p> Databases e ORMS: </p>
+  <div style="display: flex; gap:10px;">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45px" height="45px"/>
     </a>
@@ -77,8 +82,8 @@
 
 <br/>
 
-<p> Tools: </p>
-  <div>
+<p> Ferramentas </p>
+  <div style="display: flex; gap:10px;">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45px" height="45px"/>
     </a>
