@@ -6,7 +6,7 @@
 - :books: Eu estudo na Driven Education
 - 🔭 Atualmente estou trabalhando no folklore (uma SPA para completar o lyric de músicas)
 - 🌱 Estou aprendendo Docker e CI/CD
-- :sparkles: Eu adoraria compartilhar experiências! Por favor, entre em contato a qualquer momento :grinning:
+- :sparkles: Eu adoraria compartilhar experiências! Pode entrar em contato comigo, será um prazer! :grinning:
 - ⚡ Curiosidade: Eu pratico Yoga e meditação, sou apaixonado por música pop e amo literatura LGBTQI+ :rainbow_flag:
 
 <br/>
@@ -61,7 +61,7 @@
 
 <br/>
 
-<p> Databases e ORMS: </p>
+<p> Banco de dados e ORMS: </p>
   <div style="display: flex; gap:10px;">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
@@ -98,7 +98,7 @@
 <br/>
 
 <details closed>
-<summary>📈 Github Stats </summary>
+<summary>📈 Estatísticas do Github </summary>
 <br/>
 <p>
   <img align="center" height="203em" src="https://github-readme-stats.vercel.app/api?username=tieskay&show_icons=true&locale=en" alt="tieskay" />
