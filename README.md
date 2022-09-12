@@ -3,10 +3,8 @@
 <img align="right" alt="GIF" src="./assets/music.gif" width="420" height="320" />
 <br>
 
-- :books: Eu estudo na Driven Education
-- 🔭 Atualmente estou trabalhando no folklore (uma SPA para completar o lyric de músicas)
-- 🌱 Estou aprendendo Docker e CI/CD
-- :sparkles: Eu adoraria compartilhar experiências! Por favor, entre em contato a qualquer momento :grinning:
+- :man_technologist: Trabalho na @pagar.me
+- :sparkles: Eu adoraria compartilhar experiências! Fique a vontade para entrar em contato a qualquer momento :grinning:
 - ⚡ Curiosidade: Eu pratico Yoga e meditação, sou apaixonado por música pop e amo literatura LGBTQI+ :rainbow_flag:
 
 <br/>
