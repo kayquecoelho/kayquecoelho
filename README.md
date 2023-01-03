@@ -99,8 +99,8 @@
 <summary>📈 Estatísticas do Github </summary>
 <br/>
 <p>
-  <img align="center" height="203em" src="https://github-readme-stats.vercel.app/api?username=tieskay&show_icons=true&locale=en" alt="tieskay" />
-  <img align="center" height="203em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tieskay" />
+  <img align="center" height="203em" src="https://github-readme-stats.vercel.app/api?username=kayquecoelho&show_icons=true&locale=en" alt="kayquecoelho" />
+  <img align="center" height="203em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquecoelho" />
 </p>
 <br/>
 </details>
